@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.simpleviewmodel"
-    compileSdk = 34
+    compileSdk = 30
 
     defaultConfig {
         applicationId = "com.example.simpleviewmodel"
