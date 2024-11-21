@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple View Model</string>
+    <string name="laki">Laki-laki</string>
+    <string name="wanita">Perempuan</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="detail">Data Siswa</string>
+</resources>
